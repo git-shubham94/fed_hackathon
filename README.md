@@ -1,16 +1,49 @@
-# React + Vite
+📘 Student Achievement Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application built with React + Vite to help track, visualize, and manage student achievements efficiently.
+This platform includes features like achievement charts, data input forms, student records, and a clean UI for quick insights.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📊 Interactive Achievement Chart (using custom React components)
 
-## React Compiler
+🧑‍🎓 Student Dashboard for quick overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📝 Forms for adding student achievement details
 
-## Expanding the ESLint configuration
+🎨 Responsive UI with modern styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Fast performance powered by Vite
+
+🔄 Reusable components for scalability
+
+🛠️ Tech Stack
+
+Frontend:
+
+React
+
+Vite
+
+JSX
+
+CSS Modules / Styles
+
+Tools & Dependencies:
+
+NPM
+
+Git & GitHub
+🔧 Installation & Setup
+1️⃣ Clone the repository
+git clone https://github.com/git-shubham94/fed_hackathon
+cd fed_hackathon
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run the development server
+npm run dev
+
+4️⃣ Build the project
+npm run build
