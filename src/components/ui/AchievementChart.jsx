@@ -8,7 +8,7 @@ import {
   Legend,
 } from 'recharts';
 import { motion } from 'framer-motion';
-import '../../styles/Chart.css';
+import '../../styles/chart.css';
 
 const AchievementChart = ({ achievements }) => {
   const data = [
